@@ -1,2 +1,2 @@
 # Toucans-Team-10
-Add-project-description-here | Voyage-7 | https://chingu.io/
+Cloning a landing page of the Atomist website using CSS and HTML5. | Voyage-7 | https://chingu.io/
