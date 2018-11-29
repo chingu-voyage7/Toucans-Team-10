@@ -1,0 +1,64 @@
+Atomise website bottom third - from "The latest from atomist"
+
+FEATURES:
+1) Latest News Articles
+  > Image
+  > Byline (author of article or source of video)  
+  > Beginning of article or video summary, trails of
+  > link to "read more" or "watch video"
+  
+  There are three columns of equal width across the page, each column contains a section as set out above and the three columns.
+  Site uses a carousel to move between 9 articles/videos in total (3 per page as it were). There are also buttons on either side to indicate
+  left or right to allow user to move through carousel faster than automatic timing.
+  Clicking anywhere on the column section links to the article or video.
+  
+  Possible solutions for this feature:
+  > Carousel feature
+  > Use grid system to generate columns
+  > Image/video cards at top, then article for main text?
+  > Image acts as link, 'read more' or 'watch video' acts as link, text acts as link - ALL LINKS OPEN IN NEW TAB - target_blank
+  
+ 2) Would You Like To Know More 
+ > Title
+ > Byline text - link to slack community (new tab - target_blank) and link to chat bot modal
+ > Request demo button
+ 
+ Possible solutions for this feature:
+ > link to slack community page - target_blank (new tab)
+ > Modal used for chat bot with chat feature (this functionality is beyond our scope but we can create a modal replicating chat bot)
+ > Could use framework such as bootstrap to create modal and for grid system above or use CSS to create modal box.
+ > Button and link in text both trigger modal chat bot.
+ > Button again could use bootstrap framework or HTML/CSS - discuss whether we want to utilise a framework or not.
+ 
+ 3) Footer
+ > Horizontal footer bar with links to 6 pages /sections - ABOUT US, CAREERS, TERMS, PRIVACY, BLOG, CONTACT
+ > Each link opens in the same browser window.
+ 
+ Possible Solutions for this feature:
+ > Horizonatal navigation bar - again pros and cons of framework vs not.
+ > no target_blank as links open in same page - our links should take us to a new page but as we are focusing on cloning the home page for
+ now any additional pages should be placed in the 'if we have time' category.
+ 
+ 4) Stay in the know, subscribe now
+ > Form with email address field and submit button
+ > Placeholder text for email field is "Email address"
+ > Button reads "Subscribe"
+ > If non-valid email address submitted new page opens up with a full form to confirm correct email and other details.
+ > if valid email format is submitted - new page - opens in same browser - subscription confirmed - address of company - add us to your address
+ book link. Two buttons - "continue to website" or "manage your preferences"
+ 
+ Possible solutions for this feature:
+ > Email form - placeholder text
+ > html validate email - new page trigger if not with invalid form
+ > sumbit button - subscribe text
+ > one central column
+ 
+ 5) Credits /copyright
+ > Credits and copyright text
+ > link to twitter through icon and text - opens in same browser not in new tab
+ > Chat icon bottom right (this opens up chat modal and moves with page as you scroll)
+ 
+ Possible solutions for this feature:
+ > Font-awesome icons for twitter icon - css styling twitter blue and link to twitter page
+ > Chat bot icon - fixed footer? Again opens modal as discussed above.
+ > link to twitter in same browser window - no target_blank.
