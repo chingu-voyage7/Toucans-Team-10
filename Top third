@@ -30,5 +30,5 @@ Atomist website top third
 -	h, p
 -	table with 4 columns
 -	head with logo & text
--	3 lines
--	‘Watch Video’ button
+-	3 lines (unordered list)
+-	‘Watch Video’ button opens video
