@@ -1,0 +1,34 @@
+Atomist website top third
+
+1)
+-	background photo
+-	transparent banner with picture, text and 2 links that open in new tab
+-	clickable logo on the left that leads to landing page
+-	navigation bar:  
+                  •	6 links to click at
+                  •	links open in same tab
+                  •	subnavigation menu under ‘product’
+                  •	‘blog’ opens new tab
+                  •	‘Contact Us’ button (NOTHING HAPPENS IF I CLICK ON IT?!)
+-	left: heading, subheading and ‘Learn More’ button (leads further down on page)
+-	right: clickable picture that opens video
+
+2)
+-	carousel feature with comments (5)
+- indicators
+- left and right control panels
+
+3)
+-	photo on the left
+-	h & p on the right
+
+4)
+-	text on the left
+-	photo on the right
+
+5)
+-	h, p
+-	table with 4 columns
+-	head with logo & text
+-	3 lines
+-	‘Watch Video’ button
